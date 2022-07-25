@@ -19,6 +19,6 @@ Hᴇʏ {},
 Tʜɪs ɪs {},
 Aɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇᴅ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Sᴏᴜʀᴄᴇ : [ɢɪᴛʜᴜʙ](https://github.com/AnonymousR1025/banglavipchat)
+Sᴏᴜʀᴄᴇ : [ɢɪᴛʜᴜʙ](https://t.me/banglavipchat)
 Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://t.me/toxichacke) !
     """
